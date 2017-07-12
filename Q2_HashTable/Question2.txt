@@ -1,0 +1,20 @@
+Problem
+
+Given an input file with keywords of different length. Read those keywords from the file and store it in hashtable data structure that uses the length of that keyword as the hash function. Get the input from the user to search a particular keyword in the hashtable.
+Store the data in the form of hashtable and the result of the search results in the output file 
+
+------------------------------------------------------------
+Input
+hello how are you
+san jose state university
+------------------------------------------------------------
+Output
+
+[2]->san->you->are->how
+[3]->jose
+[4]->state->hello
+[9]->university
+
+user search : university
+It is found at index 9
+------------------------------------------------------------
