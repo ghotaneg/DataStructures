@@ -1,0 +1,7 @@
+Given an input file with following data
+2,3,5,76,34,48,71,89,29,31,50
+
+Get the input from the file and stores it in a linked list Data Structure. Delete all the nodes having non prime numbers and store the data into the output file.
+
+Input file : 2,3,5,76,34,48,71,89,29,31,50
+Output file : 2,3,5,71,89,29,31
